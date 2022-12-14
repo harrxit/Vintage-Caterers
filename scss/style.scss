@@ -1,26 +1,20 @@
 /******* Bootstrap Theming ********/
 
-$primary: #F195B2;
-$secondary: #62C3E7;
+$primary: #785cb4;
+$secondary: #7300ab;
 $light: #FFFFFF;
 $dark: #333333;
-
-$font-family-sans-serif: 'Poppins', sans-serif;
-
+$font-family-sans-serif: 'Poppins',
+sans-serif;
 $body-bg: #F3F6FF;
-
 $body-color: #555555;
-
 $headings-color: $dark;
-
 $enable-responsive-font-sizes: true;
-
 $border-radius: 5px;
-
 @import "bootstrap/scss/bootstrap";
 
-
 /********** Custom CSS ************/
+
 h1,
 h2,
 .font-weight-bold {
@@ -60,7 +54,7 @@ h6,
     padding-left: 0;
     padding-right: 0;
     text-align: center;
-    border-radius:45px;
+    border-radius: 45px;
 }
 
 .back-to-top {
@@ -95,7 +89,7 @@ h6,
 }
 
 @media (max-width: 991.98px) {
-    .navbar-light .navbar-nav .nav-link  {
+    .navbar-light .navbar-nav .nav-link {
         padding: 10px 0;
     }
 }
@@ -104,7 +98,6 @@ h6,
     .navbar-light {
         border-radius: 60px;
     }
-
     #header-carousel,
     .page-header {
         margin-top: -45px;
@@ -212,7 +205,6 @@ h6,
         transform: translateX(-50%) translateY(-50%) translateZ(0) scale(1);
         opacity: 1;
     }
-
     100% {
         transform: translateX(-50%) translateY(-50%) translateZ(0) scale(2);
         opacity: 0;
