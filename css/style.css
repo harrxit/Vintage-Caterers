@@ -592,7 +592,7 @@ mark,
 
 code {
     font-size: 87.5%;
-    color: #785cb4;
+    color: #7300ab;
     word-wrap: break-word;
 }
 
@@ -3136,7 +3136,7 @@ fieldset:disabled a.btn {
 }
 
 .btn-link:hover {
-    color: #e85181;
+    color: #7300ab;
     text-decoration: underline;
 }
 
@@ -5027,7 +5027,7 @@ input[type="button"].btn-block {
 
 .page-link:hover {
     z-index: 2;
-    color: #e85181;
+    color: #7300ab;
     text-decoration: none;
     background-color: #e9ecef;
     border-color: #dee2e6;
@@ -9877,7 +9877,7 @@ button.bg-dark:focus {
 
 a.text-primary:hover,
 a.text-primary:focus {
-    color: #e85181 !important;
+    color: #73 !important;
 }
 
 .text-secondary {
@@ -10501,3 +10501,5 @@ h6,
         border-right: none !important;
     }
 }
+
+0ab
