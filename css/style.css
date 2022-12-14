@@ -9872,12 +9872,12 @@ button.bg-dark:focus {
 }
 
 .text-primary {
-    color: #F195B2 !important;
+    color: #7300ab !important;
 }
 
 a.text-primary:hover,
 a.text-primary:focus {
-    color: #73 !important;
+    color: #7300ab !important;
 }
 
 .text-secondary {
@@ -10140,7 +10140,7 @@ h6,
 
 .navbar-light .navbar-nav .nav-link:hover,
 .navbar-light .navbar-nav .nav-link.active {
-    color: #F195B2;
+    color: #785cb4;
 }
 
 @media (max-width: 991.98px) {
@@ -10501,5 +10501,3 @@ h6,
         border-right: none !important;
     }
 }
-
-0ab
