@@ -1,1 +1,2 @@
-.bg-primary is the topbar and multiple area colours
+".bg-primary" -  is the topbar and multiple area colours
+".nav-bar::before" - is the area below top bar 
